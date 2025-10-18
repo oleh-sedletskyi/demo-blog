@@ -18,7 +18,9 @@ Grievous, has swept into the
 Republic capital and kidnapped
 Chancellor Palpatine, leader of
 the Galactic Senate.
-
+<div align=center>
+![](../images/Star_Wars_Episode_III_Revenge_of_the_Sith_poster.jpg)
+</div>
 As the Separatist Droid Army
 attempts to flee the besieged
 capital with their valuable
