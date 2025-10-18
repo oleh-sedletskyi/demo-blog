@@ -13,6 +13,8 @@ friend Han Solo from the
 clutches of the vile gangster
 Jabba the Hutt.
 
+![](../images/return-of-the-jedi.jpeg)
+
 Little does Luke know that the
 GALACTIC EMPIRE has secretly
 begun construction on a new
